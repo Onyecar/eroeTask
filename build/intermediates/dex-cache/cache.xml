@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.2.0.aar/9d4b415883129a3de25584ea965c8f3c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="01a590e11a94cb7f5c8b1243d4a2783eab4d0a34">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.2.0.aar/33fc6829e20b3c9e0aa4188f17e862d9/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e82b33733f801187c5b502d56fe1e3014de84b71">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.2.0.aar/02db7cb78249c8a226c9fd03c7cca67c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cad6f251cba07624f49b0c5b6287731a3c9957b8">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.2.0.aar/a9162de880f6f13b7a18139847cfd529/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c6a5692945e9d4bc34baddb4f7cb79070038f739">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/8ead4cde9f676168729847d596c6da94/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/play-services-games-11.2.0.aar/f50f4840e0935bc06beb3338b8df3d41/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="31aafe75ac42184d700ec3f862bf735c33ba201a">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.2.0.aar/dfe0fe9af4004c20f577dfbe2f6f5cb8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0c6b6b87687475583a7841926cfcadef96280483">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-11.2.0.aar/c3fdac51e6e7bc31050445efb50f4776/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9d151a92bb0af74ea6368e57ddf0e03c609155b4">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/firebase-crash-11.2.0.aar/2350eab16bc0f9ee56744a8f434febdb/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2a935bcf7d7c529f04dc89905d1ddf678d5e692">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.2.0.aar/87804e948902fdf7071b14f91d36caed/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="df812c448ef60fa0032ced451751ff98392b70a1">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.2.0.aar/f30f2f3aacf1f1de75e34ad7b93ea107/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="816a71eb5b0340d26db3056aa33f58dad108315b">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.2.0.aar/282f8f13009f9f70daf6b6f6c19d7cf0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2df69841cd9793d6bfa2f78b7b7f4ea06d2296a7">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.2.0.aar/b5bd6a1dacfd62c404183eba2be8db2b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="103378d4e51581df4783e9e4a59a1775fe4f4104">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0caf911378f3823467e098a19a3b678a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-11.2.0.aar/a288828a08ca48040272f2bc25458737/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0a3ae2ca8e64cdda4ae59aef07e33226cb950f5c">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.2.0.aar/d53b6b5a6289019f67a0ea1b84329905/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="694e2bf7a21fa46310a4a0309b9943060d573abe">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.2.0.aar/da1add1130844ccb8cb9a81a6f517a57/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="00e57da8e7efba5e0aead2d3c76201d86918a0d1">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/edaa3d790865cc080cee30af876a9616/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.2.0.aar/f8bfcc4e11fd96d6d4a49fc6ba684c90/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="67a51ae54d61ca318e61c73cdd9b27ec56af03bc">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/firebase-storage-11.2.0.aar/34f42c8c9df9e1b380c816de25928988/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="07b52724ade6a26fecb53090da1574913fc78639">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/firebase-common-11.2.0.aar/51c3150fb80fffefed22c637800cb976/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="edba0aec4aedd4edb3a520b4ee87adc52be762da">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.2.0.aar/f80a257ecabe6ac79e4ca7b2e09b3411/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="010af21d7b95f7c975dd3d2fb2aa936a241b385b">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-11.2.0.aar/a959f90a874a23624d7acece87207588/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ff3baea295d5079a6b54538c8eab744ea72b4cc">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/play-services-awareness-11.2.0.aar/33cbe834f4ffd111bf57b611b4fdaa7b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6987a74958e42b559fd0eacef972173f59ba93bb">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.2.0.aar/e5bb132f6f65edc3e04ca91465b18de3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="28ed270c519ff2874343e0824808da2efda0df9c">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/palette-v7-25.2.0.aar/bd77b74e50b4338a917f1fc34b83ae36/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/play-services-wearable-11.2.0.aar/bf2743a222146059824e0767864d5ded/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bd362e8a7451fb70f9d28498949c1be35e5a2e6e">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.2.0.aar/2c2e8160112680970666f4d3bbff9407/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d1e7ad8d5340b695e52cc5a14819f4264a4f4b8e">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e16395436a6b385303be7de01d71830e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.2.0.aar/b898a984511e2cadc19b0a16708f0464/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a93a72fe5e0ac12f4a8ff35c5a6ed651e142d10a">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-11.2.0.aar/5ca7bb58a9aeaf6fde496125be19bc2d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f5e24e901834850335a8bb7d95cf51ea1468a32a">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/45005cb383c04942c529e9580adc135b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/play-services-fido-11.2.0.aar/32a111fe6ca141d8f968dce23a11119a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a3a0d55874ee03de768356d540983a20c95dd07a">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/firebase-config-11.2.0.aar/90531c2a9a61e4e89257eda13eea64ba/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f779085940b4f3c80ea711dc24a36649f16f4cd5">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.2.0.aar/2cf313260f33d6b7d337a28fc2129754/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3da345d7c08a7e9d83a34d8723057624b941c0ea">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.2.0.aar/d67bbc0d268706522772460b5bdbaea3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d1a80b23cc4097106a3f4914928e700ac3c5b2ed">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/play-services-identity-11.2.0.aar/bc07a33ffd85a75b3c7287d1755d8957/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c839ceb2113b00249e896c1c02ae15cdd8380345">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/play-services-drive-11.2.0.aar/ffbcbd4b55a2e20c0079c45878ae066e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fc10e35f477578b1766c883d4a8561c207684531">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/play-services-base-11.2.0.aar/c2008d5c17bb0c70dcf336a00179a6cc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="36a6c288ed760d2d899126fa90761b84af10dd2d">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/play-services-location-11.2.0.aar/a3e21575971f6d4a91cf07e3fa5e6707/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="41872d809cff2114169756aad6dcd593be2ecb59">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.2.0.aar/e66c7672d3aa5dca7bcaf012012804a2/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9c80e982366ff105ce567a3e536cb77ae4981ade">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/338690d177a5f95108610eae55de00e1/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.2.0.aar/a88e200fcdbd2d700b3cc38492015c09/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="341fc0b4661ec63331b1d95d8ceaeb04f5fd25cd">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.2.0.aar/daed7cda45d39f240608a71c5c442437/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="03589bac12234193d4a7a9b106a6db1b367afe99">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-11.2.0.aar/399405e21286cbf8ceea5ac0744f045a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="767b85989de73cb665e14510ff2657ef979241f9">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/play-services-fitness-11.2.0.aar/e96cfad761dbffca36d76cef73ac402a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="539c74d461960397d4c3f72623c72eb766569075">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/play-services-nearby-11.2.0.aar/8dbd8b92530d3ada36e71913a9c62ca8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="83f83593e58b678e8e6b8db6cf1fd8fe0e22dfe1">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/767849809438ebdd33af4a099a727e02/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.2.0.aar/953718ea540f13181c04c65cb842bc14/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2a8ae88a3addcb045172d340c4d1e977cbd50c39">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/4ea60725da24a17811c7ec798c6dd465/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/firebase-database-11.2.0.aar/8099204849d7f3e6818d657e314a6c28/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="76a7a625df0e9027b53dbed6e9ba9a6031a42e39">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/play-services-places-11.2.0.aar/b8b23f09d26510f6fff6d456a99c676e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="57717bc4b81722a9c3e481fc6f150a950afd550c">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/e7a35661527c3f480cb83408b02e916c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/43f430d472555310ca177e25944753f9/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/26f962ffb4312aac7f9cea4f3f8fa17b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/fe8a9fc973d603254204a4c3ab51e036/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.2.0.aar/3d0a9297fa05e374d783552f81c8fd7f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="56ae1b700bdd20fdf8c5347fadcc96228fc1bf16">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.2.0.aar/e0ae52e6fb8b8c63830aa3694ce105cc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="171b54791d6ecec42ffc943bf9ea1a363ff6ab4f">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.2.0.aar/72eb4e0837bf47db0356d87077a6597b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7b4dc2d9e39fb8ec5ddca9b3b3cb7c627690f3a6">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.2.0.aar/a67e5379d51dbcb125db95a15641ef85/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c478771eacdf8217e093a1b967b8152cfdaadc94">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.2.0.aar/9787eaabff2f558e457c490880e46efb/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="132a3661719fdac703f2a6f6a7b178c85cfe3cc6">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.2.0.aar/b14504eaa8b9587d5634d9518dbf609d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7cf5def5a11365487219b912b2a7ba8ad26f9917">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/play-services-wallet-11.2.0.aar/918ee7f14d4d5cfb4ecbf76e1b80af99/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3227957f15e5f672f35758c028cf3b94fb39b56d">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onyekaanene/.gradle/caches/transforms-1/files-1.1/play-services-panorama-11.2.0.aar/941b30fbe811c83450bac94c42e23bf9/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="814b7c015442bfbedc29035e7afdfe383d893a03">
+        <dex dex="/Users/onyekaanene/Desktop/ANENE/DOCUMENTS/mobile/eroeTasks/eroe/app/build/intermediates/transforms/preDex/release/35.jar" />
+    </item>
+
+</items>
